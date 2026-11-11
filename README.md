@@ -10,8 +10,8 @@ Previously, I was a Tech Manager at **Nubank** and **PicPay**, leading multidisc
 
 ## What I'm building
 
-<!-- Quando o repositório do Le Closet ficar público, troque **Le Closet** por **[Le Closet](https://github.com/leticiamara/NOME-DO-REPO)** -->
-- **Le Closet**: a wardrobe app built with Flutter, Riverpod and Firebase, with two AI features on the Gemini API: photo-based item tagging (multimodal) and an AI stylist that builds outfits from the user's own clothes. The idea started in 2021 as a native Android app ([virtual-wardrobe](https://github.com/leticiamara/virtual-wardrobe)); in 2026 I picked it back up and rebuilt it in Flutter with AI at its core. Currently in beta on TestFlight.
+<!-- Quando o exemplo público existir, troque "a public sample is coming soon" por "see the [public sample](https://github.com/leticiamara/NOME-DO-REPO)" -->
+- **Le Closet**: a wardrobe app built with Flutter, Riverpod and Firebase, with two AI features on the Gemini API: photo-based item tagging (multimodal) and an AI stylist that builds outfits from the user's own clothes. The idea started in 2021 as a native Android app ([virtual-wardrobe](https://github.com/leticiamara/virtual-wardrobe)); in 2026 I picked it back up and rebuilt it in Flutter with AI at its core. Currently in beta on TestFlight. The source code is private; a public sample is coming soon.
 - **[LetsMovie](https://github.com/leticiamara/LetsMovie)**: an Android app for browsing movies and keeping a watchlist. Kotlin, Jetpack Compose, Hilt, Room, Retrofit and Paging 3, with a multi-module setup and unit and Compose UI tests.
 - **Next up:** a Kotlin Multiplatform app with shared Ktor and SQLDelight layers, Compose on Android and SwiftUI on iOS.
 
