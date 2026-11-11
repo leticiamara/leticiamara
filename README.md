@@ -6,7 +6,7 @@ Previously, I was a Tech Manager at **Nubank** and **PicPay**, leading multidisc
 
 **Open to** Senior and Staff Mobile Engineer roles (Android/Flutter), remote.
 
-<!-- Fun fact: escreva aqui uma linha pessoal (hobby, curiosidade) e remova este comentário -->
+**Hobbies:** gym, dancing, Pilates, investing, reading, traveling, and watching series and movies.
 
 ## What I'm building
 
